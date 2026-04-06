@@ -1,4 +1,2 @@
 # OurFavoriteFoods.txt
-Let Us All List Our Favorite Foods!
-
-French Fries - meh.
+Let Us All List Our Favorite Foods! List your favorite food in the OurFavFoods.txt file...
